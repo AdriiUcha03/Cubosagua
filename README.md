@@ -1,10 +1,13 @@
-# MAFF
+# USA
 
 CFGS Desenrotllament d'Aplicacions Web
 
 Entorns de Desenrotllament
 
-## Programa del joc dels poals
+## Programa de los cubos de agua
 
-Programa exemple per activitat de Github amb Python
+### 11/05/2023 19:46
+
+Programa ejemplo con opción añadida de llenado de todos los cubos
+
 
